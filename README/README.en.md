@@ -1,9 +1,9 @@
-<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+<a href="../README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
 </br>
 # React Counter
 
 
-![reactCounter](reactCounter.webp)
+![reactCounter](../reactCounter.webp)
 
 A simple counter implemented in React.
 
